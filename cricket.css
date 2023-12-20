@@ -1,0 +1,24 @@
+body {
+  text-align: center;
+}
+
+.choice-button {
+  height: 100px;
+  width: 100px;
+  border: none;
+  margin: 10px;
+  background-color: rgb(198, 241, 156);
+  border-radius: 50px;
+  cursor: pointer;
+}
+.choice-image {
+  height: 75px;
+}
+.reset {
+  background-color: whitesmoke;
+  border-radius: 50px;
+  width: 100px;
+  height: 50px;
+  border: none;
+  cursor: pointer;
+}
